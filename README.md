@@ -5,9 +5,9 @@ Hello fellow humans, my name is **Drijon**. I was born on **27th of April** some
 I currently mainly work on my project **Sienna,** a **multipurpose Discord Bot** with main weight on **Giveaways** and **Server Moderation**. If you would like to know more about it, consider DM'ing me.
 
 ⚙️ **Technologies**
-> JavaScript [Next.JS, React.JS, Express.JS]
-> TypeScript [Next.TS, React.JS/TS]
-> Python
+> JavaScript [Next.JS, React.JS, Express.JS] \n
+> TypeScript [Next.TS, React.JS/TS] \n
+> Python \n
 > HTML & CSS
 
 📞 **Contact** 
