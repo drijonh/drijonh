@@ -1,4 +1,4 @@
-###👋🏼 **About Me**
+##👋🏼 **About Me**
 
 Hello fellow humans, my name is **Drijon**. I was born on **27th of April** some years ago. I'm a **Student** from Italy pursuing **Full-Stack Development and Software Engineering**. 
 
