@@ -30,6 +30,6 @@ I’m a developer obsessed with **Coding, Ethical Hacking, Cybersecurity and Law
 
 # 🐍 Support My Work
 
-<a href="https://buymeacoffee.com/jonih" target="_blank">
+<a href="https://drijon.dev/coffee" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me a Coffee" style="height:40px;"/>
 </a>
