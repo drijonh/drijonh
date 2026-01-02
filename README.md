@@ -11,7 +11,7 @@ I’m a developer obsessed with **Coding, Ethical Hacking, Cybersecurity and Law
   <br />
   <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nextjs,react,tailwind,discordjs,vite" />
   <br />
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,linux,ubuntu" />
   <br />
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,pnpm,npm,cloudflare,vercel,yarn" />
   <br />
